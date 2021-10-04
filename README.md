@@ -12,7 +12,7 @@
 <a href="https://github.com/omryzw">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omryzw" />
 </a>
-###
+<br><br><br>
 <a href="https://github.com/omryzw">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=omrizw" />
 </a>
