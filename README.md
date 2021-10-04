@@ -9,11 +9,10 @@
 - 📫 How to reach me: twitter @omnisoftco
 
 ### My Stats 📊
-<br>
 <a href="https://github.com/omryzw">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omryzw" />
 </a>
-<br>
+###
 <a href="https://github.com/omryzw">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=omrizw" />
 </a>
