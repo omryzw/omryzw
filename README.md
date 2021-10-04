@@ -10,7 +10,7 @@
 
 ### My Public Stats 📊
 <a href="https://github.com/omryzw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omryzw&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omryzw&show_icons=true&count_private=true" />
 </a>
 <br><br><br>
 <a href="https://github.com/omryzw">
