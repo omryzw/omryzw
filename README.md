@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=omrizw" />
 </a>
 <br><br><br>
-<a href="https://github.com/omryzw">
+<!-- <a href="https://github.com/omryzw">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omryzw&langs_count=10" />
-</a>
+</a> -->
 
