@@ -8,7 +8,7 @@
 - 💬 Ask me about Chatbots
 - 📫 How to reach me: twitter @omnisoftco
 
-### My Stats 📊
+### My Public Stats 📊
 <a href="https://github.com/omryzw">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omryzw&show_icons=true" />
 </a>
