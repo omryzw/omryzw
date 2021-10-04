@@ -10,7 +10,7 @@
 
 ### My Stats 📊
 <a href="https://github.com/omryzw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omryzw" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omryzw&show_icons=true" />
 </a>
 <br><br><br>
 <a href="https://github.com/omryzw">
